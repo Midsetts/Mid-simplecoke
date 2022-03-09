@@ -1,4 +1,4 @@
-# qb-simplecoke
+# Mid-simplecoke
 
 ## DESCRIPTION
 This is a script for qbus cocaine to work simply. 
